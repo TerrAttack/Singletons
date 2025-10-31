@@ -1,0 +1,9 @@
+{
+    "name": "com.leon.singletons",
+    "author": {
+        "name": "Leon McCall"
+    },
+    "version": "1.0.0",
+    "displayName": "Singletons",
+    "description": "A collection of singletons for Unity\nBased on a video by www.youtube.com/@git-amend"
+}
